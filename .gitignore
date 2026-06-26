@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+yolov5_env/
+yolov5env/
+
+# Training outputs
+runs/
+
+# Dataset
+datasets/
+data/
+
+# Videos
+*.mp4
+
+# Images
+*.jpg
+*.png
+
+# VS Code
+.vscode/
+
+# Comet ML
+.cometml-runs/
